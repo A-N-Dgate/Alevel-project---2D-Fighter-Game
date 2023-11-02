@@ -1,0 +1,25 @@
+frames 0 - 3: default position (*missed out a frame)
+frames 4 - 5: crouch                                          (down button)
+frames 6 - 10: block                                          (z)
+frames 11 - 14: move right                                    (right button)
+frames 15 - 17: move left                                     (left button)
+frames 18 - 22: jump                                          (up button)
+frames 23 - 25: back down                                        
+frames 26 - 31: punch                                         (a)
+frames 32 - 36: kick   (*repeated first frame)                (x)
+frames 37 - 42: chop   (*repeated first frame)                (s)
+frames 43 - 47: low punch                                     (a + down button)
+frames 48 - 53: low kick                                      (x + down button)
+frames 54 - 55: low block                                     (z + down button)
+frames 56 - 61: uppercut                                      (a + up button)
+frames 62 - 68: high kick                                     (x + up button)
+frames 69 - 72: get hit 
+frames 73 - 74: defeated (*flash between)
+
+frame dimentions: 95 x 110
+sheet dimentions: 7125 x 110
+bit depth: 32
+columns/ frames: 74                                           (*zero indexed)                                                   
+
+use dimentions.txt to get the hitbox
+all player spritesheets should have the same frame numbers

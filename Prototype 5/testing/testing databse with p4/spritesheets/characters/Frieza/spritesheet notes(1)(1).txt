@@ -1,0 +1,16 @@
+frame dimentions: 80,81
+sheet dimentions: 7040,81
+bit depth: 32
+columns/ frames: 87                                           (*zero indexed) 
+
+
+special moves:
+frames 75-87: death ball                                      (a + x + up button)
+
+special move frames:
+death ball:
+-frame dimentions: 116,120 
+-hitbox dimentions: frames 0-4:  58,60  at (x+14),(y+18); frame 5: 116,120
+-sheet dimentions: 696,120
+-columns/frames: 5					      (*zero indexed) 
+   

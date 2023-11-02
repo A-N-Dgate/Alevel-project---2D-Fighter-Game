@@ -1,0 +1,28 @@
+Goku:
+-spritesheet              | 
+-class                    |
+-hitboxes                 |
+-select sprite            | missing           
+
+Raditz:
+-spritesheet              |
+-class                    |
+-hitboxes                 |
+-select sprite            | missing     *do  last
+
+Trunks:
+-spritesheet              | missing
+-class                    | missing
+-hitboxes                 | missing
+-select sprite            | missing
+
+Vegeta:
+-spritesheet              | missing
+-class                    | missing 
+-hitboxes                 | missing 
+-select sprite            | missing
+
+Background level 1:
+-background               |
+-foreground fixed         | missing 
+-coordinates for ^        | missing 

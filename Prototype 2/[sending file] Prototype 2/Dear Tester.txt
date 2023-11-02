@@ -1,0 +1,55 @@
+Hi and thank you for being a tester for my game :)
+this is just a quick note about how to play and test
+
+
+--------------included in this prototype-------------------
+You will be greeted with a really basic character select 
+screen where you can choose between 3 characters: Goku, 
+Trunks or Raditz. To choose a charcter, click somehwere on
+the large picture of the character. Then level 1 starts 
+where you will have to defeat an unressponsive enemy. After
+showing that you have completed the level "You Won" will 
+appear on the screen and the program will automatically 
+close after a certain amount of time.
+
+This isn't the most smooth running program so don't expect
+it to be perfect and it's also pretty small so it won't
+take too much time :)
+
+---note if you're using the .exe file:
+I honeslty don't know how pyinstaller works so i can't 
+really troubleshoot any problems. But int he .exe file
+the "You Won" screen and enemy defeated animation isn't
+shown and the program ends just after you defeate the 
+enemy.
+
+------------------------Controls---------------------------
+crouch                                        (down button)
+block                                         (z)
+move right                                    (right button)
+move left                                     (left button)
+jump                                          (up button)
+                                       
+punch                                         (a)
+kick                                          (x)
+chop                                          (s)
+low punch                                     (a + down button)
+low kick                                      (x + down button)
+low block                                     (z + down button)
+uppercut                                      (a + up button)
+high kick                                     (x + up button)
+
+note that in this protoype moves which require two key presses 
+only work while the character on screen is animating. 
+for example:
+
+if you want to do a high kick, press x then while the character
+is performing the kick, press x and up one after eachother and 
+hopefully after the character has performed the kick, it will
+do a high kick.
+
+----------------------feedback----------------------------------
+Text me what you thought about it basically and I'll have to 
+improve my next prototype based on your suggestions. This will
+be inlcuded in the "writeup" for this project, which is the 
+protion marked by the exam marker. 

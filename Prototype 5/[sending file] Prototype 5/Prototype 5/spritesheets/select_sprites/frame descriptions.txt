@@ -1,0 +1,11 @@
+arcade: 133,38
+practice: 171,38
+controls: 183,38
+exit: 83,38
+
+load save data: 292,38
+new game:172,38
+don't load data:303,38
+
+extra:116,38
+back:91,38

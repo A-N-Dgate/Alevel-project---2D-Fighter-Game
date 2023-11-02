@@ -1,0 +1,8 @@
+
+frame dimentions: 95 x 110
+sheet dimentions: 7125 x 110
+bit depth: 32
+columns/ frames: 74                                           (*zero indexed)    
+
+frame 75 in dementions.txt is the frame dimentions                                               
+

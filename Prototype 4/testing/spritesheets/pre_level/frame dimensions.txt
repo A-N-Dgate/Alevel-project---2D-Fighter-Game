@@ -1,0 +1,6 @@
+stage1: 127,38
+ready: 114,38
+fight: 117,38
+
+note: might need to re-do the stage image so that stage1, stage2 etc 
+are the same dimensions

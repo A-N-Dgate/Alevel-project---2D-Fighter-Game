@@ -1,0 +1,23 @@
+crouch                                        (down button)
+block                                         (z)
+move right                                    (right button)
+move left                                     (left button)
+jump                                          (up button)
+                                       
+punch                                         (a)
+kick                                          (x)
+chop                                          (s)
+low punch                                     (a + down button)
+low kick                                      (x + down button)
+low block                                     (z + down button)
+uppercut                                      (a + up button)
+high kick                                     (x + up button)
+
+
+and to do a combination move (in this example, a high kick):
+
+x --> x --> up button
+
+or
+
+x --> up button --> x

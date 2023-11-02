@@ -1,0 +1,18 @@
+frame dimentions: 81,97
+sheet dimentions: 7047,97
+bit depth: 32
+columns/ frames: 86                                           (*zero indexed) 
+
+
+special moves:
+frame 75  - 86: galick gun                                   (z + x + left key)
+
+
+
+
+special move dimentions:
+Galluc gun:
+-frame dimentions: 480,45
+-hitbox dimentions: (frame number * 120),45
+-sheet dimentions:
+-columns/frames: 4

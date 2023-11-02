@@ -1,0 +1,24 @@
+---for all characters:
+
+frames 0 - 3: default position (*missed out a frame)
+frames 4 - 5: crouch                                          (down button)
+frames 6 - 10: block (*missed out a frame)                    (z)
+frames 11 - 14: move right                                    (right button)
+frames 15 - 17: move left                                     (left button)
+frames 18 - 22: jump                                          (up button)
+frames 23 - 25: back down (*missed out a frame)                                       
+frames 26 - 31: punch                                         (a)
+frames 32 - 36: kick   (*repeated first frame)                (x)
+frames 37 - 42: chop   (*repeated first frame)                (s)
+frames 43 - 47: low punch  (*repeated first frame)            (a + down button)
+frames 48 - 53: low kick                                      (x + down button)
+frames 54 - 55: low block                                     (z + down button)
+frames 56 - 61: uppercut                                      (a + up button)
+frames 62 - 68: high kick                                     (x + up button)
+frames 69 - 72: get hit 
+frames 73 - 74: defeated (*flash between)
+
+use dimentions.txt to get the hitbox
+format: frame number, width, height
+
+icon: 60,60 (testing size)

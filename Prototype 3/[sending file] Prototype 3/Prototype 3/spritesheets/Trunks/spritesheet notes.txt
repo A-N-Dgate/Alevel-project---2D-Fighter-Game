@@ -1,0 +1,9 @@
+frame dimentions: 94,91
+sheet dimentions: 
+bit depth: 32
+columns/ frames: 74                                           (*zero indexed) 
+
+
+the original Trunks spritesheet didn't have the same amount of frames as the 
+Goku or Raditz sheets so some animation sequences may look awkward as i repeated 
+some frames.

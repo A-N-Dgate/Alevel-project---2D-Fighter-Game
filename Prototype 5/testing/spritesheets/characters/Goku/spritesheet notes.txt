@@ -1,0 +1,19 @@
+
+frame dimentions: 95 x 110
+sheet dimentions: 7885 x 110
+bit depth: 32
+columns/ frames: 82                                           (*zero indexed)    
+
+
+special moves:
+frames 75 - 82: Kamehameha                                    (a + s + right button)                        
+
+
+
+
+special move dimetions:
+kamehameha: 
+-frame dimentions: 480,45
+-hitbox dimentions: (frame number * 120),45
+-sheet dimentions:
+-columns/frames: 4

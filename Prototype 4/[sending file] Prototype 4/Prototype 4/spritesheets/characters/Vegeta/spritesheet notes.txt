@@ -1,0 +1,4 @@
+frame dimentions: 81,97
+sheet dimentions: 6075,97
+bit depth: 32
+columns/ frames: 74                                           (*zero indexed) 

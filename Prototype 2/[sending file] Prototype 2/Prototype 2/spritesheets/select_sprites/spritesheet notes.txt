@@ -1,0 +1,2 @@
+dimentions: 900,453
+frame dimentions: 300,453

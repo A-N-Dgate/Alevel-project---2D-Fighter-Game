@@ -1,0 +1,7 @@
+full background dimentions: 997 x 473
+
+the other bit dimentions: 997 x 209
+coorindates for the other bit: 0,267
+
+
+

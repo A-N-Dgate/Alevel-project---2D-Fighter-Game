@@ -1,0 +1,23 @@
+frame dimentions: 113,100
+sheet dimentions: 11978,100
+bit depth: 32
+columns/ frames: 105                                           (*zero indexed) 
+
+
+the original Trunks spritesheet didn't have the same amount of frames as the 
+Goku or Raditz sheets so some animation sequences may look awkward as i repeated 
+some frames.
+
+
+special moves:
+frames 75 - 105: Shining slash                                 (z + s + right key)                                                 
+
+
+
+
+special move dimetions:
+shining slash: 
+-frame dimentions:85,75
+-hitbox dimentions:85,75 (doesn't change much) 
+-sheet dimentions:170,75
+-columns/frames: 2

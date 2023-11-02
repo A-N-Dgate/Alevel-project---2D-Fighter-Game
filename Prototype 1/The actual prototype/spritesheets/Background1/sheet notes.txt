@@ -1,0 +1,4 @@
+full background dimentions: 997 x 473
+the other bit: 1098 x 360
+
+*delete the green outline later
